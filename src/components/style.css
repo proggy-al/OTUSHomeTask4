@@ -1,0 +1,15 @@
+.myForm{
+    border-color: black;
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1rem;      
+}
+
+.myField{
+    padding: 5px;
+}
+
+.myButton{    
+    margin-left: 30%;       
+}
