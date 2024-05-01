@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
-import {AvtoForm} from './components/AvtoForm';
-
-
-
+import AvtoForm from './components/AvtoForm';
 
 function App() {
   return (
     <div className="App">
-      <AvtoForm/>     
+      <AvtoForm/> 
     </div>
   );
 }
